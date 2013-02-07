@@ -1,5 +1,5 @@
-1.Change directory to Problem1 directory
-
+1.Change directory to this directory
+ which contains the README.txt file
 2.Type in 
 		java getUrls [hashtag]
 For example:
